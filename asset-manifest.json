@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fb-post-react/static/css/main.53fd5921.chunk.css",
+    "main.js": "/fb-post-react/static/js/main.0ab63138.chunk.js",
+    "main.js.map": "/fb-post-react/static/js/main.0ab63138.chunk.js.map",
+    "runtime-main.js": "/fb-post-react/static/js/runtime-main.e639b598.js",
+    "runtime-main.js.map": "/fb-post-react/static/js/runtime-main.e639b598.js.map",
+    "static/js/2.146b1d0f.chunk.js": "/fb-post-react/static/js/2.146b1d0f.chunk.js",
+    "static/js/2.146b1d0f.chunk.js.map": "/fb-post-react/static/js/2.146b1d0f.chunk.js.map",
+    "index.html": "/fb-post-react/index.html",
+    "static/css/main.53fd5921.chunk.css.map": "/fb-post-react/static/css/main.53fd5921.chunk.css.map",
+    "static/js/2.146b1d0f.chunk.js.LICENSE.txt": "/fb-post-react/static/js/2.146b1d0f.chunk.js.LICENSE.txt",
+    "static/media/1.658f2595.jpg": "/fb-post-react/static/media/1.658f2595.jpg",
+    "static/media/2.b5803346.jpg": "/fb-post-react/static/media/2.b5803346.jpg",
+    "static/media/3.230215e0.jpg": "/fb-post-react/static/media/3.230215e0.jpg",
+    "static/media/p1.83347f46.jpg": "/fb-post-react/static/media/p1.83347f46.jpg",
+    "static/media/p2.7d361397.jpg": "/fb-post-react/static/media/p2.7d361397.jpg",
+    "static/media/p3.57ae296c.jpg": "/fb-post-react/static/media/p3.57ae296c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e639b598.js",
+    "static/js/2.146b1d0f.chunk.js",
+    "static/css/main.53fd5921.chunk.css",
+    "static/js/main.0ab63138.chunk.js"
+  ]
+}
